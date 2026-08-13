@@ -1,0 +1,7 @@
+spikes deal
+effect wears off _y
+gains the effect of _y
+is afflicted _y
+no effect _y
+Additional effect: .- HP
+%sRoll _y
